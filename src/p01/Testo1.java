@@ -10,6 +10,7 @@ public class Testo1 {
 		System.out.println("aaaaa");
 		System.out.println("こんにちは");
 
+		
 	}
 	
 }
