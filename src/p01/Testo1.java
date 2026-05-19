@@ -9,6 +9,7 @@ public class Testo1 {
 		System.out.println("小瀬大喜");
 		System.out.println("aaaaa");
 		System.out.println("こんにちは");
+
 	}
 	
 }
