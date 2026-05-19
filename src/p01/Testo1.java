@@ -8,6 +8,8 @@ public class Testo1 {
 		System.out.println("平井友夢");
 		System.out.println("小瀬大喜");
 		System.out.println("西陽矢");
+		System.out.println("aaaaa");
+
 	}
 
 }
