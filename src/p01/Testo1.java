@@ -7,6 +7,7 @@ public class Testo1 {
 		System.out.println("隈元裕太郎");
 		System.out.println("平井友夢");
 		System.out.println("小瀬大喜");
+		System.out.println("西陽矢");
 	}
 
 }
